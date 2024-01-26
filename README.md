@@ -1,9 +1,8 @@
-```markdown
 # 🚀 ISAAC AYOBAMI OGUNJINMI
 ## MATERIAL TESTING/GEOTECHNICAL ENGINEER
 
 ### PROFESSIONAL SUMMARY
-Navigating the intricate world of soil and rock, I've spent the past three years at ANWA Technical Ventures LTD safeguarding the success of diverse construction projects for clients like RCC and VITA. My geotechnical prowess shines in unraveling subsurface mysteries, crafting solutions for complex geotechnical challenges, and optimizing material testing to ensure superior structural integrity. As an unwavering advocate for quality and efficiency, I look forward to tackling the next frontier with innovative problem-solving and a collaborative spirit.
+Navigating the intricate world of soil and rock, I've spent the past three years at ANWA Technical Ventures LTD safeguarding the success of diverse construction projects for clients like RCC and VITA. My geotechnical prowess shines in unravelling subsurface mysteries, crafting solutions for complex geotechnical challenges, and optimizing material testing to ensure superior structural integrity. As an unwavering advocate for quality and efficiency, I look forward to tackling the next frontier with innovative problem-solving and a collaborative spirit.
 
 ### SKILLS
 - **Geotechnical Engineering Expertise:**
@@ -15,7 +14,7 @@ Navigating the intricate world of soil and rock, I've spent the past three years
   6. Water Resource Investigation: Conduct water resistivity surveys and analyze groundwater data.
   7. **Data Science and Analysis:**
      - Statistical Analysis: Apply descriptive, inferential, and prescriptive analytics to geotechnical data.
-     - Python Programming: Utilize Python libraries (NumPy, Pandas, scikit-learn) for efficient data analysis.
+     - Python Programming: Utilize Python libraries (NumPy, Pandas, sci-kit-learn) for efficient data analysis.
      - Data Visualization: Create compelling visuals and reports to communicate technical findings effectively.
      - **Machine Learning (Optional):** Explore and implement machine learning applications for geotechnical problems.
 - **Software Proficiency:**
@@ -66,4 +65,3 @@ Navigating the intricate world of soil and rock, I've spent the past three years
 - 2021 Microsoft Project: Learn Project Management with MS Project, UDEMY.
 - 2021 Microsoft Excel Training: From Zero to Hero in 8 Hours, UDEMY.
 - 2020 Health and Safety in the Workplace 1,2&3, IICMR.
-```
