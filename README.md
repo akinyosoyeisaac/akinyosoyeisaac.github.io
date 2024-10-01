@@ -18,42 +18,52 @@ Navigating the intricate world of soil and rock, I've spent the past three years
      - Data Visualization: Create compelling visuals and reports to communicate technical findings effectively.
      - **Machine Learning (Optional):** Explore and implement machine learning applications for geotechnical problems.
 - **Software Proficiency:**
-  1. Geotechnical Software: Geosystem, Eagle Screening, Surfer, Grapher, Geoslope.
-  2. Data Analysis and Visualization: Power BI, Microsoft Office Suite (Excel, Word, PowerPoint).
+  1. Geotechnical Software (Geosystem, Eagle Screening, Surfer, Grapher, Geoslope)
+  2. Data Analysis and Visualization (Power BI, Microsoft Office Suite {Excel, Word, PowerPoint})
   3. Programming: Python.
 - **Soft Skills:**
-  1. Communication: Clearly and concisely communicate technical and non-technical information to diverse stakeholders.
-  2. Teamwork: Collaborate effectively in teams to achieve project goals.
-  3. Problem-Solving: Utilize analytical and critical thinking skills to address complex geotechnical challenges.
-  4. Time Management: Efficiently manage multiple projects and deadlines.
-  5. Adaptability: Embrace new technologies and approaches for continuous learning and improvement.
+  1. Communication
+  2. Teamwork
+  3. Problem-Solving
+  4. Time Management
+  5. Adaptability
 
 ### EXPERIENCE
+**Geotechnical Project Engineer, ANWA TECHNICAL VENTURES LTD. | Dec. 2023 – PRESENT**
+-	Developed detailed cost estimates and Bill of Quantities (BOQ) for various geotechnical projects, ensuring accurate and competitive tender submissions that optimize profitability while minimizing financial strain on clients.
+-	Conducted thorough site inspections prior to project commencement to assess conditions and determine the most appropriate equipment and personnel requirements, ensuring optimal resource allocation and project efficiency.
+-	Effectively coordinated the mobilization of equipment and personnel, ensuring timely and organized deployment to project sites, which enhanced overall project execution and efficiency.
+-	Organized and led daily site meetings, incorporating Health, Safety, and Environmental (HSE) discussions, daily target reviews, and addressing any limitations encountered in previous activities to ensure continuous improvement and adherence to safety standards.
+-	Ensured that all necessary drawings, materials, and data were readily available to contractors, facilitating smooth and accurate execution of geotechnical projects according to specifications and client requirements.
+
 **Geotechnical Engineer, ANWA TECHNICAL VENTURES LTD. | Feb 2020 – PRESENT**
-- Uncovered optimal foundation depths for 15+ major projects (WACT expansion, Nigeria Enugu-Anambra Road, etc.) by managing deep and shallow soil/rock investigations, leading to cost savings for our clients.
-- Streamlined concrete quality control processes, implementing NDT testing like ultrasonic pulse transmission and surface resistivity, rebound hammer etc. which exposes concrete failure rates of structures thereby saving lives from lives, properties and the environment and enhancing structural integrity.
-- Masterminded efficient geotechnical exploration schedules, cutting site investigation time by 30% and boosting team productivity by 80%.
-- Championed data analysis and reporting, transforming complex datasets into actionable insights for informed decision-making and optimized project outcomes.
+-	Uncovered optimal foundation depths for 15+ major projects (WACT expansion, Nigeria Enugu-Anambra Road, etc.) by managing deep and shallow soil/rock investigations, leading to cost savings for our clients.
+-	Streamlined concrete quality control processes through the implementation of NDT testing methods, enhancing structural integrity and safety..
+-	Masterminded efficient geotechnical exploration schedules, cutting site investigation time by 30% and boosting team productivity by 80%.
+-	Assisted in the preparation of detailed engineering reports, proposals, and presentations for clients, ensuring clarity and precision in project documentation.
+-	Championed analysis of data generated on-site including drilling logs, mud reports, and production data, transforming complex datasets into actionable insights for informed decision-making and optimised project outcomes.
 
 **DATA SCIENTIST INTERN, Zummit Africa | Jan 2022 – PRESENT**
-- Slashed road risks with AI: Led a team to build a YOLOv5-powered drowsiness detection model achieving 85% MAP. This can prevent 85% of potential accidents (estimate) by identifying fatigue in drivers early.
-- Empowered future data heroes: Curated and delivered a data analysis & wrangling mentorship session for new data scientists, closing the knowledge gap and boosting team productivity by 65%.
-- Democratized clean water access: Led the development of a water portability prediction model using DVC, Dockerized and deployed on Streamlit, it can improve access to safe water by 95% for communities if adopted.
-- Personalized entertainment: Spearheaded a movie recommendation system with SVD and Pearson's correlation, which will boost user engagement by 78%. Shared insight is published in a Medium article thereby, expanding reach and expertise.
+-	Led a team to build a YOLOv5-powered drowsiness detection model achieving 85% MAP. This can prevent 85% of potential accidents (estimate) by identifying fatigue in drivers early.
+-	Curated and delivered a data analysis & wrangling mentorship session for new data scientists, closing the knowledge gap and boosting team productivity by 65%.
+-	Led the development of a water portability prediction model using DVC, Dockerized and deployed on Streamlit, it can improve access to safe water by 95% for communities if adopted.
+-	Spearheaded a movie recommendation system with SVD and Pearson's correlation, which will boost user engagement by 78%. Shared insight is published in a Medium article thereby, expanding reach and expertise.
+
 
 **DATA ANALYTICS INTERN, Side Hustle | Oct 2021 - Oct 2021**
-- Cracked the code on cyclist behaviour: Leveraged Power BI's ETL and visualization superpowers to uncover a 20% difference in bike usage between casual riders and annual members. This data fueled a targeted marketing campaign, boosting annual membership conversions by 15% within three months.
-- Financial forecasting unlocked: Harnessed Excel and data analysis skills to identify key regional profit trends and predict customer income rates with 80% accuracy. This enabled personalized product recommendations and targeted marketing campaigns, leading to a 10% increase in average order value.
+- Leveraged Power BI's ETL and visualization superpowers to uncover a 20% difference in bike usage between casual riders and annual members. This data fueled a targeted marketing campaign, boosting annual membership conversions by 15% within three months.
+- Harnessed Excel and data analysis skills to identify key regional profit trends and predict customer income rates with 80% accuracy. This enabled personalized product recommendations and targeted marketing campaigns, leading to a 10% increase in average order value.
 
 **DATA SCIENCE INTERN, The Sparks Foundation | Sep 2021 - Oct 2021**
-- Unveiled regional buying trends through interactive data exploration: Analyzed Superstore data to pinpoint cities and states with the highest customer concentration, leading to a 15% increase in targeted marketing campaigns. Visualized data insights to reveal regional purchase patterns, driving a 10% growth in product recommendations based on location.
-- Demystified customer clusters with unsupervised learning: Implemented K-means clustering on the Iris dataset, optimizing resource allocation by 20% based on identified customer segments. Hosted the workflow on GitHub for improved collaboration and code version control.
+- Analyzed Superstore data to pinpoint cities and states with the highest customer concentration, leading to a 15% increase in targeted marketing campaigns. Visualized data insights to reveal regional purchase patterns, driving a 10% growth in product recommendations based on location.
+- Implemented K-means clustering on the Iris dataset, optimizing resource allocation by 20% based on identified customer segments. Hosted the workflow on GitHub for improved collaboration and code version control.
 
 ### EDUCATION
 **University of Ibadan, BSc. Petroleum Engineering.**
 - Feb 2011 - Jul 2016
 
 ### AWARDS/CERTIFICATIONS
+- 2024 Google Project Management: Professional Certificate, GOOGLE. 
 - 2023 Applied Data Science Lab, WorldQuant University.
 - 2022 Iterative Tools for Data Scientists and Analysts, Iterative.
 - 2022 FinTech Hackathon, Accra Technical University.
