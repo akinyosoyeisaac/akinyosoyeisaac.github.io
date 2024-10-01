@@ -16,7 +16,7 @@ Navigating the intricate world of soil and rock, I've spent the past three years
      - Statistical Analysis: Apply descriptive, inferential, and prescriptive analytics to geotechnical data.
      - Python Programming: Utilize Python libraries (NumPy, Pandas, sci-kit-learn) for efficient data analysis.
      - Data Visualization: Create compelling visuals and reports to communicate technical findings effectively.
-     - **Machine Learning (Optional):** Explore and implement machine learning applications for geotechnical problems.
+     - **Machine Learning:** Explore and implement machine learning applications for geotechnical problems.
 - **Software Proficiency:**
   1. Geotechnical Software (Geosystem, Eagle Screening, Surfer, Grapher, Geoslope)
   2. Data Analysis and Visualization (Power BI, Microsoft Office Suite {Excel, Word, PowerPoint})
